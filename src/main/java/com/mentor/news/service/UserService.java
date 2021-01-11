@@ -1,4 +1,4 @@
-package com.mentor.news.services;
+package com.mentor.news.service;
 
 import java.util.List;
 
